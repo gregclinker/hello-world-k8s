@@ -1,4 +1,4 @@
-# api-simulator
+# hello-world-k8s
 
 K8s hello world example.
 
