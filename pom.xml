@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>com.essexboy</groupId>
-	<artifactId>hello-world</artifactId>
+	<artifactId>hello-world-k8s</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<name>hello-world</name>
 	<description>Demo project for Spring Boot</description>
